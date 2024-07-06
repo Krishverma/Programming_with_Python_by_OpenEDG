@@ -1,0 +1,4 @@
+This line has been written using Python code snippet!
+Seems interesting right?
+This line has been appended
+This is some stuff!
